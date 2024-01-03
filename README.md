@@ -9,4 +9,6 @@
 
 👍 This workshop was conducted by APPLE & Infosys
 
-👍 My final Pitch app name was Memory which was based on medicine management with different feature like Photo, Remainder, stock ,      price and Date of expiry
+👍 My final Pitch app name was Memory which was based on medicine management with different feature like Photo, Remainder, stock , price and Date of expiry
+![memory app](https://github.com/AyushGupta2114/IOS-Development-App/assets/94870982/4e89ccc7-2b71-4c8a-beab-47425c54b59c)
+
