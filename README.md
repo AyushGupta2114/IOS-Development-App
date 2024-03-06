@@ -1,6 +1,6 @@
 # IOS-Development-Apps
 
-👍 In this 20-days offline workshop I got to know about Swift 
+👍 In this 45-days offline workshop I got to know about Swift 
   Fundamentals and IOS Application Design
 
 👍 Using swift I created 4-5 basic working app like My portfolio and calculator
